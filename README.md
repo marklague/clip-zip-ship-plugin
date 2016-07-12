@@ -1,2 +1,7 @@
 # clip-zip-ship-plugin
-Extends the fgp viewer with a Clip, Zip, Ship service available on enabled layers.
+
+## Goal
+Build a plugin that can be loaded and used by the [fgp Viewer](https://github.com/fgpv-vpgf/fgpv-vpgf).
+
+### Plugin description
+This extension will offer users the possibility to clip, zip and ship data from a predefined set of layers.
